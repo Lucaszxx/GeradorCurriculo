@@ -1,0 +1,15 @@
+C:\Users\silva_gomes01\Downloads\GeradorCurriculo\GeradorCurriculo\bin\Debug\net6.0\GeradorCurriculo.exe
+C:\Users\silva_gomes01\Downloads\GeradorCurriculo\GeradorCurriculo\bin\Debug\net6.0\GeradorCurriculo.deps.json
+C:\Users\silva_gomes01\Downloads\GeradorCurriculo\GeradorCurriculo\bin\Debug\net6.0\GeradorCurriculo.runtimeconfig.json
+C:\Users\silva_gomes01\Downloads\GeradorCurriculo\GeradorCurriculo\bin\Debug\net6.0\GeradorCurriculo.dll
+C:\Users\silva_gomes01\Downloads\GeradorCurriculo\GeradorCurriculo\bin\Debug\net6.0\GeradorCurriculo.pdb
+C:\Users\silva_gomes01\Downloads\GeradorCurriculo\GeradorCurriculo\obj\Debug\net6.0\GeradorCurriculo.csproj.AssemblyReference.cache
+C:\Users\silva_gomes01\Downloads\GeradorCurriculo\GeradorCurriculo\obj\Debug\net6.0\GeradorCurriculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silva_gomes01\Downloads\GeradorCurriculo\GeradorCurriculo\obj\Debug\net6.0\GeradorCurriculo.AssemblyInfoInputs.cache
+C:\Users\silva_gomes01\Downloads\GeradorCurriculo\GeradorCurriculo\obj\Debug\net6.0\GeradorCurriculo.AssemblyInfo.cs
+C:\Users\silva_gomes01\Downloads\GeradorCurriculo\GeradorCurriculo\obj\Debug\net6.0\GeradorCurriculo.csproj.CoreCompileInputs.cache
+C:\Users\silva_gomes01\Downloads\GeradorCurriculo\GeradorCurriculo\obj\Debug\net6.0\GeradorCurriculo.dll
+C:\Users\silva_gomes01\Downloads\GeradorCurriculo\GeradorCurriculo\obj\Debug\net6.0\refint\GeradorCurriculo.dll
+C:\Users\silva_gomes01\Downloads\GeradorCurriculo\GeradorCurriculo\obj\Debug\net6.0\GeradorCurriculo.pdb
+C:\Users\silva_gomes01\Downloads\GeradorCurriculo\GeradorCurriculo\obj\Debug\net6.0\GeradorCurriculo.genruntimeconfig.cache
+C:\Users\silva_gomes01\Downloads\GeradorCurriculo\GeradorCurriculo\obj\Debug\net6.0\ref\GeradorCurriculo.dll
